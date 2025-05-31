@@ -1,4 +1,7 @@
 # stsmusic - Your Ultimate Music Hub
+<div style="text-align: center;">
+  <img src="stsmusic.jpg" alt="Large Image" style="width: 80%; max-width: 800px;" />
+</div>
 
 Welcome to **STSMusic.com**, your one-stop destination for downloading, streaming, and discovering the latest songs, videos, and albums. Whether you're a music enthusiast or an artist looking to promote your work, STSMusic.com is the place for you!
 
